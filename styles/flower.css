@@ -204,6 +204,8 @@ padding-left: 270px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    text-align: center;
+    padding-top: 100px;
 }
 #dss2{
     color: rgba(39, 39, 39, 0.60);
@@ -213,12 +215,36 @@ padding-left: 270px;
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
+    text-align: center;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    
+}
+.box{
+    width: 700px;
+    height: 64px;
+    margin-left: 250px;
+    margin-bottom: 100px;
+    border: none;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: left;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 15px;
+}
+.dorkar{
+    margin-left: 010px;
+    border: none;
 }
 .sixth{
-    margin-left: 300px;
-    margin-top: 100px;
-    margin-right: 300px;
-    padding-left: 250px;
+    background-image: url("../styles/Rectangle\ 9.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 150px;
+    margin-right: 500px;
 }
 .end{
     background-color: #111010;
@@ -231,7 +257,7 @@ padding-left: 270px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    padding-top: 70px;
+    padding-top: 100px;
 }
 .end2{
     color: rgba(255, 255, 255, 0.90);
