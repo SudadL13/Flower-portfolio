@@ -220,3 +220,37 @@ padding-left: 270px;
     margin-right: 300px;
     padding-left: 250px;
 }
+.end{
+    background-color: #111010;
+}
+#end1{
+    color: #E55473;
+    font-family: Lato;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 70px;
+}
+.end2{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.end3{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-bottom: 150px;
+}
